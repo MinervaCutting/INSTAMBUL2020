@@ -1,0 +1,145 @@
+---
+title: <br><br><center>Willian Demand Group - ISTANBUL<center>
+author: "Cutting Edge Events"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+```{r knitr_init, echo=FALSE, cache=FALSE, message= FALSE,warning=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=750)
+```
+
+
+```{r echo=FALSE, message=FALSE,warning=FALSE}
+library(readxl)
+library(shiny)
+library(dplyr)
+library(knitr)
+```
+
+## **DESTINATION: ISTANBUL**
+
+**Here’s a little about Istanbul** The city of **Istanbul** is full of history and culture and is developing very quickly, offering an amazing mix of past and present architecture and places. In the meantime It is very easy to access either the Bosphorus river that separates Europe and Asia or Sultanahmet area with all its **magnificent monuments (the Blue Mosque, the Hagia Sofia...)** Turkey and especially Istanbul, is **very accessible** from all around the world thanks to the increasing development of Turkish Airlines and other airline companies that fly to our **2 international airports**. We are also located very close to **Taksim square (4 Km)** which is the main area for culture, shopping and restaurants/bars. The New İstanbul Airport is located 35 kilometers north of the city center (Taksim Square), by the **shores of the Black Sea**. The İstanbul Airport was built as the largest in the world with over 150 million annual passenger capacity in its last planned expansion stage, whilst having the potential to handle 200 million annual passengers if required in the future. There are many taxis, shuttle bus service to the city center, and a light railway (metro) to the city will be completed by 2020. Enclosed you may also see the Turkish Airlines Meeting Products Presentation which includes THY World Map and benefits for the meetings planners who books their event in Turkey. By clicking below, you may see Istanbul destination video you can explore our unique city.
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/S_jX5ulgOc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Accommodation
+
+### _**HILTON ISTANBUL BOSPHORUS**_
+
+**Hilton Istanbul Bosphorus**, being the first international 5-star hotel in Turkey and the longest-serving Hilton hotel outside the
+Americas, provides high-quality service standards to all its guests. **Hilton Istanbul Bosphorus** continues to host its guests with
+its 500 rooms offering private balconies with breathtaking views of the Bosphorus, walking distance to Istanbul Congress
+Center and its 15 acres of garden in the heart of the city.
+
+**Hilton Istanbul Bosphorus** offers the ideal venue alternatives including onsite Hilton Convention & Exhibition Center up to
+3,000 guests and open air- venues. You can experience Hilton quality with 27 purpose-based meeting rooms most of them
+offering daylight and a 24 hrs open Business Center.
+
+**Hilton Istanbul Bosphorus** offers a privileged service above all expectations with its outdoor and indoor pool, fully equipped
+fitness center which is open for 24 hours, 3 tennis courts, 2 squash courts, Turkish bath, steam bath, sauna, a jogging track
+and totally renovated massage rooms featuring unique massage treatments from all over the world by expert therapists
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/1MmTB0oJnOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    ·A double room for single use buffet breakfast included has a cost per room per night - city view from €144
+    ·Bosphorus views has a supplement per room per night of €60
+    ·Full day delegate package has a cost per person per day of €65 - including: complementary wi-fi, 2 coffee breaks with cookies, 1 buffet lunch (1 softdrink included) and basical technical equipment (table, lectern, flipchart)
+    ·Welcome buffet dinner on the terrace - drinks not included from €33
+
+
+### **Alternative Hotels** {.tabset .tabset-fade .tabset-pills}
+
+#### **HILTON ISTANBUL BOMONTI HOTEL & CONFERENCE CENTER**
+
+**Hilton Istanbul Bomonti** now has a “Creative Partner” called A Corner in the World.  They are an independent platform working on performing arts; live (performing) and visual arts, new media, sound and diversiform practices since 2015. http://www.acornerintheworld.com/. “A Corner in the World” designed activities in 4 different category, available from 10 guests to 1.000 guests; Culture & Art, Body & Mind, Team Spirit and Motivation. 
+
+**Good to know**
+
+* **Largest Hilton** in Europe and largest hotel in Istanbul with 829 guest rooms
+* **Bosphorus or Marmara Sea View** Executive Rooms
+* **Set in Sisli district**, with easy access to the city’s top attractions
+* **2017 World Luxury Spa Awards-winning** eforea Spa on 3 floors
+* **12,000sqm** space with 30+ meeting rooms and 2 ballrooms
+* **Osmanbey metro station** 10 minute walk; Nişantaşı shopping district 15 minute walk away
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/BZB2skZl8kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    ·Single hilton Guest room from €165
+    ·Full day delegate package has a cost per person per day of €72 including: registration desk, conference room, morning coffee break, open buffet lunch, afternoon coffe break, mineral water in meeting room, conference pads, pens and mint, wi-fi
+
+
+
+#### **GRAND TARABYA HOTEL**
+
+The Grand Tarabya, a true landmark of traditional Turkish hospitality, comes alive again on the European shores of the Bosphorus. Set along Tarabya Bay, with breathtaking views all the way to the entrance of the Black Sea, the hotel is ideal for business trips, weekend breaks, or spa retreats. Only 20 minutes by subway from Taksim Square, the center of the city, Tarabya is a unique neighborhood, with a picturesque harbor, lively fish restaurants, colorful scenery, a newly built marina and green landscapes.
+
+**Property Highlights**
+
+* **Dining** From high-end gastronomical experiences to traditional afternoon teas and healthy snacks, The Grand Tarabya provides an unforgettable culinary feast.
+
+* **Spa** Therapia Spa is the place to relax your body and soul. With the excellent face and body treatments it offers, the 4,000 square meter spa is the new talk of the town.
+
+* **View** Enjoy 270 degree views of the Asian and European shores welcoming the fresh waters of the Black Sea - Endless views of where east meets west.
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/S3efgpDO_eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    ·Run of the House Deluxe Marina & Bosphorus View Room for single use buffet breakfast included has a cost per room per night of €198
+    ·Full day delegate package has a cost per person per day of €85 including: main meeting room with breathtaking bosphrus views, note pads, pencils, mints, pad, pens, water, complimentary wi-fi internet access, 1 welcome coffee break including mini breakfast, morning and afternoon coffee breaks, buffet lunch with 2 non alcoholic soft drinks, flipchart. 
+    ·Welcome buffet dinner with unlimited soft beverage from €85 per person 
+    ·Breakout rooms rate per day from €460 rate per meeting room 
+****
+
+### **Map**
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1aC9eOjCAc-QQwO8fe50IiU6KUED2_MQZ&hl=en" width="800" height="600"></iframe>
+
+*****
+
+## Terms & Conditions
+
+  * Rates valid for 2020.
+  
+  * Net rates for Willian Demand Co
+  
+  * For a group of minimum 90 pax.
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+  
+*****
+
+
+
